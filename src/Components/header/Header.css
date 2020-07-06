@@ -1,0 +1,18 @@
+#logo{
+  width: 50px;
+}
+
+.navbar{
+  
+  padding-top: 20px;
+}
+
+#home {
+  color: greenyellow;
+  border: 1px solid;
+  border-radius: 50px;
+  border-collapse: separate;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}

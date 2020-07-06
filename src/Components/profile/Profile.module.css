@@ -1,0 +1,17 @@
+.item {
+    color:greenyellow;
+}
+
+#image {
+    width: 300px;
+    margin-left: 260px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+
+
+.content {
+    margin-top: 69px;
+    background-color: white;
+    margin-right: -70px; 
+}

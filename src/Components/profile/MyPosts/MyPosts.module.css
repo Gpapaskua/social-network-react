@@ -1,0 +1,26 @@
+.textArea {
+    width: 300px;
+    height: 150px;
+    border: 2px solid aqua;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.posts {
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+h3 {
+    padding-left: 300px;
+}
+
+.addPost {
+    padding-top: 10px;
+    padding-left: 190px;
+}
+
+.addPost button {
+    margin-bottom: 50px;
+    margin-left: 20px;
+}

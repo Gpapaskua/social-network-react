@@ -1,0 +1,20 @@
+.descriptionBlock{
+    padding: 10px;
+    
+}
+
+#avatar {
+    width: 400px;
+    height: 300px;
+}
+
+.profileImage {
+    padding-top: 10px;
+    padding-left: 220px;
+    background-color: aquamarine;
+}
+
+h4 {
+    padding-left: 270px;
+    border: 2px solid wheat;
+}
